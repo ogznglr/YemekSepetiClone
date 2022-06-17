@@ -1,7 +1,4 @@
 # YemekSepetiClone
-Golang ile yemeksepeti uygulamasını yazdım. Yeni hesap oluşturma, login olma, logout olma, yeni sipariş oluşturma, mevcut siparişleri listleme gibi özellikler mevcut.
-
-
 I made an order food application. You can create a new account, login, logout, create a new order and list your orders by using this REST Api.
 
 The documentation of using the api:
